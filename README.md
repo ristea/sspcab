@@ -17,7 +17,7 @@ This code is released under the [CC BY-SA 4.0](https://creativecommons.org/licen
 Our kernel is illustrated in the picture below.  The visible area of the receptive field is denoted by the regions Ki, ∀i ∈ {1, 2, 3, 4},
 while the masked area is denoted by M. A dilation factor d controls the local or global nature of the visible information with respect to M.
 
-![map](resources/masked_kernel.png)
+#![map](resources/masked_kernel.png)
 
 
 ## Implementation
