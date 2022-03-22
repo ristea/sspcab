@@ -14,32 +14,40 @@ This code is released under the [CC BY-SA 4.0](https://creativecommons.org/licen
 -----------------------------------------                                                                                                                                      
 ## Information
 
-Our kernel is illustrated in the below picture.  The visible area of the receptive field is denoted by the regions Ki, ∀i ∈ {1, 2, 3, 4},
+Our kernel is illustrated in the picture below.  The visible area of the receptive field is denoted by the regions Ki, ∀i ∈ {1, 2, 3, 4},
 while the masked area is denoted by M. A dilation factor d controls the local or global nature of the visible information with respect to M.
-#![map](resources/masked_kernel.png)
+
+![map](resources/masked_kernel.png)
 
 
 ## Implementation
 
-We provide implementation for both PyTorch and Tensorflow in the ``sspcab_torch.py`` and ``sspcab_tf.py``
+We provide implementation for both PyTorch and Tensorflow in the ``sspcab_torch.py`` and ``sspcab_tf.py`` scripts.
 
-> In order to work properly you need to have a python version newer than 3.6.
-> (we used the python 3.6.8 version)
+> In order to work properly, you need to have a python version newer than 3.6
+> (we used the python 3.6.8 version).
 
 
-## Cite us
+## Citation
+
+If you use our block in your own work, please don't forget to cite us:
+
 ```
-@article{Ristea-CVPR-2022,
+@inproceedings{Ristea-CVPR-2022,
   title={Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection},
   author={Ristea, Nicolae-Catalin and Madan, Neelu and Ionescu, Radu Tudor and Nasrollahi, Kamal and Khan, Fahad Shahbaz and Moeslund, Thomas B and Shah, Mubarak},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2021}
 }
 ```
-## You can send your questions or suggestions to: 
+
+## Feedback
+
+You can send your questions or suggestions to:
+
 r.catalin196@yahoo.ro, raducu.ionescu@gmail.com
 
-### Last Update:
-March 18, 2022 
+### Last Update
+March 22, 2022 
 
 
