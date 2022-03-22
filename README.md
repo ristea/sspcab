@@ -1,9 +1,9 @@
-#  Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection (official)                                                                                  
+#  Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection - CVPR 2022 (official repository)                                                                                  
 
 We propose to integrate the reconstruction-based functionality into a novel self-supervised predictive architectural building block. 
 The proposed self-supervised block is generic and can easily be incorporated into various state-of-the-art anomaly detection methods.
 
-The original paper could be found at: https://arxiv.org/pdf/2111.09099.pdf
+The open-access paper can be found at: https://arxiv.org/pdf/2111.09099.pdf
 
 This code is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
@@ -23,8 +23,8 @@ while the masked area is denoted by M. A dilation factor d controls the local or
 
 We provide implementation for both PyTorch and Tensorflow in the ``sspcab_torch.py`` and ``sspcab_tf.py``
 
-> In order to work properly you need to have a python version newer than 3.6
->> We used the python 3.6.8 version.
+> In order to work properly you need to have a python version newer than 3.6.
+> (we used the python 3.6.8 version)
 
 
 ## Cite us
