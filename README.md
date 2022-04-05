@@ -36,7 +36,7 @@ If you use our block in your own work, please don't forget to cite us:
   title={Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection},
   author={Ristea, Nicolae-Catalin and Madan, Neelu and Ionescu, Radu Tudor and Nasrollahi, Kamal and Khan, Fahad Shahbaz and Moeslund, Thomas B and Shah, Mubarak},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2021}
+  year={2022}
 }
 ```
 
@@ -45,8 +45,5 @@ If you use our block in your own work, please don't forget to cite us:
 You can send your questions or suggestions to:
 
 r.catalin196@yahoo.ro, raducu.ionescu@gmail.com
-
-### Last Update
-March 22, 2022 
 
 
