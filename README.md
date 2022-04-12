@@ -1,4 +1,4 @@
-#  Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection - CVPR 2022 (official repository)                                                                                  
+#  Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection - CVPR 2022 Oral (official repository)                                                                                  
 
 We propose to integrate the reconstruction-based functionality into a novel self-supervised predictive architectural building block. 
 The proposed self-supervised block is generic and can easily be incorporated into various state-of-the-art anomaly detection methods.
