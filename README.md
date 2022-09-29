@@ -5,7 +5,7 @@ The proposed self-supervised block is generic and can easily be incorporated int
 
 The open-access paper can be found at: https://arxiv.org/pdf/2111.09099.pdf
 
-This code is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+This code is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 -----------------------------------------
 
